@@ -33,15 +33,15 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "okjFs5gNZDvGAwt53bkvxBSFULPYk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "r9TPlUTTha-VF8EXcJ5vz3rbrXzgTmyJX339ll6XovU",
+      useTemplateId: "523fLA5Cd0kHrDX1PaD6batUNF90p26JEAZZtErX5W0",
       // 所在省份
       province: "山东",
       // 所在城市
       city: "菏泽",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://www.msn.cn/zh-cn/weather/forecast/in-?loc=eyJ0IjoxLCJ4IjoxMTUuNDgxLCJ5IjozNS4yMzR9&ocid=ansmsnweather"
     }, 
     {
       name: "老婆1", 
