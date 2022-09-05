@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "okjFs5gNZDvGAwt53bkvxBSFULPY",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "523fLA5Cd0kHrDX1PaD6batUNF90p26JEAZZtErX5W0",
+   *    useTemplateId: "_p5b4XWOeUg3DkhKNL6nK4Ftb6HAoLVzMdB-LYw9HPs",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "okjFs5gNZDvGAwt53bkvxBSFULPY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "523fLA5Cd0kHrDX1PaD6batUNF90p26JEAZZtErX5W0",
+      useTemplateId: "_p5b4XWOeUg3DkhKNL6nK4Ftb6HAoLVzMdB-LYw9HPs",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -127,9 +127,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2020-09-28"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
+    {"keyword": "marry_day", date: "2021-01-03"},
     // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
